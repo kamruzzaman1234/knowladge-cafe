@@ -6,7 +6,7 @@
       "title": "The Art of Programming",
       "author": "John Smith",
       "author_img": "../src/assets/images/boy1.png",
-      "reading_time": "15 minutes",
+      "reading_time": 22,
       "posted_date": "2024-03-12",
       "hashtags": ["programming", "coding", "technology"]
     },
@@ -16,7 +16,7 @@
       "title": "Data Science Essentials",
       "author": "Emily Johnson",
       "author_img": "../src/assets/images/boy1.png",
-      "reading_time": "20 minutes",
+      "reading_time": 22,
       "posted_date": "2024-03-11",
       "hashtags": ["datascience", "analytics", "machinelearning"]
     },
@@ -26,7 +26,7 @@
       "title": "The Power of Mindfulness",
       "author": "Michael Brown",
       "author_img": "../src/assets/images/girl1.jpg",
-      "reading_time": "10 minutes",
+      "reading_time": 10,
       "posted_date": "2024-03-10",
       "hashtags": ["mindfulness", "meditation", "wellness"]
     },
@@ -36,7 +36,7 @@
       "title": "Cooking with Passion",
       "author": "Sarah Lee",
       "author_img": "../src/assets/images/girl2.jpg",
-      "reading_time": "25 minutes",
+      "reading_time": 25,
       "posted_date": "2024-03-09",
       "hashtags": ["cooking", "recipes", "food"]
     }
